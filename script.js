@@ -6,7 +6,7 @@ let holdTimer;
 let imageLoop;
 let isHeld = false;
 let isEndcardVisible = false;
-const holdDuration = 2000; // 2 seconds hold to transition to endcard
+const holdDuration = 1000; // 2 seconds hold to transition to endcard
 const autoEndcardTime = 20000; // 20 seconds auto-transition to endcard
 
 // Function to loop through images
